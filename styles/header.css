@@ -68,5 +68,27 @@
     color: rgb(190, 45, 248);
     display: block;
   }
+
+
+.opcoes {
+  display: flex;
 }
 
+.opcoes-li{
+  padding: 0 1em;
+}
+
+.Item_Li{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.container__imagem--transparente{
+  display: none;
+}
+
+.titulo_W{
+  display: none;
+}
+
+}
