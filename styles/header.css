@@ -91,4 +91,14 @@
   display: none;
 }
 
+.opcoes-bot:checked~.lista-menu{
+  display: block;
+  width: auto;
+}
+
+.opcoes-bot{
+  display: none;
+}
+
+.
 }
